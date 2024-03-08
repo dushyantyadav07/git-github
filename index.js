@@ -8,3 +8,7 @@ function sayHello() {
 function feature1() {
   console.log(" add feature1");
 }
+
+function feature2() {
+  console.log("add feature 2");
+}
